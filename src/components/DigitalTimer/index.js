@@ -55,7 +55,7 @@ class DigitalTimer extends Component {
               </h1>
               <p className="clock-status">
                 {' '}
-                {isClockRunning ? 'Running' : 'Pause'}{' '}
+                {isClockRunning ? 'Running' : 'Paused'}{' '}
               </p>
             </div>
           </div>
